@@ -36,5 +36,3 @@ class View(QWidget):
 
     def clearMessage(self):
         self.te1.clear()
-
-# test
